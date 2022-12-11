@@ -1,0 +1,23 @@
+body{ 
+    background-color: brown;
+}
+
+h1{
+    color: rgb(16, 230, 162);
+    font-size: 100px;
+}
+
+p{
+    color: rgb(56, 223, 14);
+    font-size: 70px;
+}
+
+.chicken1{
+  background-color: aquamarine;
+
+}
+
+.chicken2{
+  background-color: blue;
+
+}
